@@ -6,6 +6,8 @@ You need mongoDB
 Google mongo and download it and install. There are steps on the official website for installing.
 Press windows key to open Search and go to sevices. In services and make sure mongo has started and is running as a service.
 
+view video: https://drive.google.com/drive/folders/1v-5b4-nXQUFSZCU3Wrk90c7K7_aE3Fle?usp=sharing
+
 Download and extract the folder (if using the .zip)
 
 Open 2 terminals (command prompt)
