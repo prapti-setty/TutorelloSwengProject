@@ -34,6 +34,8 @@ npm start
 
 Give it a few minutes and it should open in localhost 8080
 
-The "blog" contains 2 pahes : Admin and Users.
+The "blog" contains 2 pages : Admin and Users.
 Admin is aimed at being the one that you can integrate into admin panel and has functionality to add article, edit article and delete article.
 User can only display the article. This way users can't edit the articles.
+
+The "faq" contains the main faq page with the questions and answers and a request ticket page. Currently this request ticket page is a very simple email form, but we have included an upgraded form if you prefer that.
