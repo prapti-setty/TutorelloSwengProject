@@ -18,18 +18,23 @@ In both terminals/command lines
 
 Open client in one:
 cd client
+
 npm i
 
 Open server in the other:
 cd server
+
 npm i
+
 npm i -S path express body-parser express-session cors errorhandler mongoose morgan
+
 npm install --g nodemon
 
-In server 
+
+In server: 
 node app.js
 
-In client 
+In client: 
 npm start
 
 Give it a few minutes and it should open in localhost 8080
